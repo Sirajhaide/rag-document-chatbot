@@ -1,1 +1,5 @@
-google-genai pypdf numpy streamlit python-dotenv 
+streamlit
+google-genai
+pypdf
+numpy
+python-dotenv
